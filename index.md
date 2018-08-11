@@ -6,27 +6,15 @@ I'm currently working on a project on the side trying to apply deep learning alg
 
 ### Accomplishments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Building genetic algorithm to optimize standard cells.
+2. Top 30% in a ~440 team kaggle competition hosted by Google to predict NYC Taxi Fares.
 
-```markdown
-Syntax highlighted code block
+```**Bold** and _Italic_ and `Code` text
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[www.linkedin.com/in/ashalabi]```(url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact
 
