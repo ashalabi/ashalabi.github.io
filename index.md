@@ -9,12 +9,8 @@ I'm currently working on a project on the side trying to apply deep learning alg
 1. Building genetic algorithm to optimize standard cells.
 2. Top 30% in a ~440 team kaggle competition hosted by Google to predict NYC Taxi Fares.
 
-```**Bold** and _Italic_ and `Code` text
 
-[www.linkedin.com/in/ashalabi]```(url) and ![Image](src)
-```
-
-```For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+www.linkedin.com/in/ashalabi
 
 ### Contact
 
